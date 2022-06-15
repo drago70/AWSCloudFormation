@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: 2022-09-09
 Description: Lab template
 
 # Lab VPC with public subnet and Internet Gateway
